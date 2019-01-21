@@ -2,7 +2,7 @@
 
 ------------------
 ## BÀI 1
-<a href="tree/master/BAI1">bài giải</a>.
+<a href="BAI1">bài giải</a>.
 
 Đề bài: Cho một bàn cờ 8x8 , gọi tọa độ của 1 ô bất kỳ là i,j (0 <= i,j <=7)
 
